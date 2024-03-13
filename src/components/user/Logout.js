@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+ import React, { useContext, useState } from "react";
 import { UserContext } from "../../App";
 export default function Logout() {
   const { user, setuser } = useContext(UserContext);
