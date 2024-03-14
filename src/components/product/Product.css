@@ -17,12 +17,12 @@
     border:1px silver solid
 }
 .Product-container .Product-button{
-    background-color: #3b120f;
+    /* background-color: #3b120f; */
     width:150px;
     padding:0px;
     margin: 10px;
     border-radius: 20px;
-    background-color: rgb(67, 173, 41);
+    /* background-color: rgb(67, 173, 41); */
     color: #ffffff;
     outline:auto;
     outline-color: silver;
